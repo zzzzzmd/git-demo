@@ -1,3 +1,5 @@
 hello Ming! hello git!222222
 hello Ming! hello git!333333
 hello Ming! hello git!666666
+hello Ming! hello git!666666
+hello Ming! hello git!hot-fix test
